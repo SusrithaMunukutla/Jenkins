@@ -1,1 +1,1 @@
-echo 'Hi this is from Github repository'
+echo 'Hi this is from Github repository $Name'
