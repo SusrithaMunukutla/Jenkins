@@ -15,3 +15,9 @@
     <tags>Project</tags>
   </metadata>
 </package>
+<configuration>
+      <packageSources>
+        <add key="Your Package Source" value="http://54.252.225.191/nexus/service/local/nuget/nugetrepo/" />
+        <add key="nuget.org" value="https://www.nuget.org/api/v2/" />
+    </packageSources>
+</configuration>
