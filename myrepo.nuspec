@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>myrepo</id>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <authors>None</authors>
     <owners>None</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
