@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>jenkins</id>
-    <version>0.3</version>
+    <id>myrepo</id>
+    <version>1.0</version>
     <authors>None</authors>
     <owners>None</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
